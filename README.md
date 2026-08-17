@@ -1,81 +1,85 @@
-# kshitija0037
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">A passionate developer building things one commit at a time</h3>
+<!-- ================= ANIMATED WAVE BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff41&height=220&section=header&text=Kshitija%20Raskar&fontSize=55&fontColor=00ff41&fontAlignY=38&desc=%3E%20SYSTEM.INITIALIZED&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+</p>
+
+<!-- ================= TERMINAL BOOT TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+booting+dev_environment...;%3E+loading+cse_student.exe+%5BOK%5D;%3E+compiling+ideas+into+code;%3E+status%3A+ONLINE+_" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" alt="followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=TRANSMISSIONS%20RECEIVED&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 What I'm currently working on
-- 🔭 Currently building: **PROJECT_NAME** — one-line description
-- 🌱 Currently learning: **TECH/SKILL**
-- 💬 Ask me about: **YOUR_EXPERTISE**
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: **something fun about you**
+<!-- ================= ASCII TERMINAL BLOCK ================= -->
+```
+
+┌─[ksh-0037@github]─[~]
+└──╼ $ whoami
+
+  NAME        : Kshitija Raskar
+  ROLE        : 2nd Year CSE (Btech) Student
+  LOCATION    : Pune, India
+  STACK       : Python · C · C++ · Java (in progress)
+  MISSION     : Learning to build real, ship-worthy projects
+  STATUS      : 🟢 Open to collaborating on projects
+
+└──╼ $ _
+
+```
 
 ---
 
-### 🛠️ Tech Stack
+### 📡 LIVE FEED — currently in progress
+```diff
++ [ACTIVE]   Working on my first project — details coming soon
++ [LEARNING] Java, and how to get involved in real-world projects
++ [OPEN]     Looking to collaborate — students & devs welcome
+! [PING ME]  raskarkshitija2007@gmail.com
+```
+
+---
+
+### ⚙️ TECH STACK
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- Add/remove badges for your stack: https://github.com/Ileriayo/markdown-badges -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github&theme=dark" />
 </p>
+<!-- Add/remove icons: https://skillicons.dev -->
 
 ---
 
-### 📊 GitHub Stats (auto-updating)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+### 🎨 BEYOND CODE
+```
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+┌─[ksh-0037@github]─[~/interests]
+└──╼ $ cat hobbies.txt
 
----
+  ✏️  Sketching
+  🔎  Exploring new tech, tools & ideas
+  📚  Currently a CSE student, always learning
 
-### 📈 Contribution Activity Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="activity graph" width="100%"/>
-</p>
+└──╼ $ _
+
+```
 
 ---
 
-### 🐍 Contribution Snake (animated)
-<!-- Set up via GitHub Actions — see setup note at bottom -->
+<!-- ================= CONNECT TERMINAL ================= -->
+```
+
+┌─[ksh-0037@github]─[~/connect]
+└──╼ $ cat social_links.txt
+
+```
+<p align="left">
+  <a href="mailto:raskarkshitija2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=0d1117" /></a>
+</p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </p>
-
----
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<!-- 
-SETUP NOTES:
-1. Replace all YOUR_USERNAME, YOUR_NAME, and placeholder text above.
-2. Stats/streak/activity-graph images update automatically — no action needed, just correct usernames.
-3. For the animated snake (shows your contribution graph as a moving snake eating your commits):
-   - Go to Settings > Actions > General in this repo, enable Actions.
-   - Create .github/workflows/snake.yml using the guide at:
-     https://github.com/Platane/snk
-   - It runs on a schedule and regenerates the SVG automatically — making the README feel "live".
-4. Theme options for stats cards: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, dracula (swap "radical" above).
--->
