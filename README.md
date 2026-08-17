@@ -1,6 +1,6 @@
 <!-- ================= ANIMATED WAVE BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff41&height=220&section=header&text=Kshitija%20Raskar&fontSize=55&fontColor=00ff41&fontAlignY=38&desc=%3E%20SYSTEM.INITIALIZED&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0326,50:6a0dad,100:c77dff&height=220&section=header&text=Kshitija%20Raskar&fontSize=55&fontColor=00ff41&fontAlignY=38&desc=%3E%20SYSTEM.INITIALIZED&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ================= TERMINAL BOOT TYPING ANIMATION ================= -->
@@ -45,7 +45,7 @@
 
 ### ⚙️ TECH STACK
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,git,github&theme=dark" />
 </p>
 <!-- Add/remove icons: https://skillicons.dev -->
 
@@ -66,14 +66,6 @@
 ```
 
 ---
-
-<!-- ================= CONNECT TERMINAL ================= -->
-```
-
-┌─[ksh-0037@github]─[~/connect]
-└──╼ $ cat social_links.txt
-
-```
 <p align="left">
   <a href="mailto:raskarkshitija2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" /></a>
